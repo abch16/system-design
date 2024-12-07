@@ -1,89 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
-  <diagram name="Page-1" id="CEEGhQvRy_hNJPUen2Cn">
-    <mxGraphModel dx="2284" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram name="Page-1" id="ZPGe9Wyayldn-yrrlvEs">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kJoU7hoKPyCbofS08Th0-3" value="Functional Requirement&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Storing Files ( pdf , word and excel)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Size file 1GB&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Download Files&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Authorised User&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;User Files ( Public / Private)&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="270" width="210" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="kJoU7hoKPyCbofS08Th0-4" value="Non Functional Requirements&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 100 User / per day&amp;nbsp; 5 files&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3 * 5&amp;nbsp; /&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;15 RPS&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;File Size ; 1 GB&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;15GB Data per day&amp;nbsp;&lt;/div&gt;&lt;div&gt;15 * 30&amp;nbsp; month&lt;/div&gt;&lt;div&gt;450 GB&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Avaliablity&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Highly Available&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Latency&amp;nbsp; - ???&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="490" width="180" height="370" as="geometry" />
-        </mxCell>
-        <mxCell id="kJoU7hoKPyCbofS08Th0-5" value="API Specification&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp; /file/upload&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. /files&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. /file/download&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="793" width="120" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="kJoU7hoKPyCbofS08Th0-6" value="Web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kJoU7hoKPyCbofS08Th0-7" value="Mobile&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="195" y="560" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="kJoU7hoKPyCbofS08Th0-8" value="Backend Serice&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="440" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="kJoU7hoKPyCbofS08Th0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kJoU7hoKPyCbofS08Th0-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="820" y="590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kJoU7hoKPyCbofS08Th0-9" value="Database" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="680" y="440" width="140" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="kJoU7hoKPyCbofS08Th0-12" value="Fiile&amp;nbsp; Table&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;fileId -&amp;nbsp;&lt;/div&gt;&lt;div&gt;userid&amp;nbsp;&lt;/div&gt;&lt;div&gt;type&amp;nbsp;&lt;/div&gt;&lt;div&gt;storageLoc - URL&lt;/div&gt;&lt;div&gt;typeFile - Public / Private&lt;/div&gt;&lt;div&gt;createdAt&lt;/div&gt;&lt;div&gt;updatedAt&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="640" y="583" width="160" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="kJoU7hoKPyCbofS08Th0-13" value="S3" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="720" y="280" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="kJoU7hoKPyCbofS08Th0-14" value="User&amp;nbsp;&lt;div&gt;used id&amp;nbsp;&lt;/div&gt;&lt;div&gt;user- details&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="665" y="733" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kJoU7hoKPyCbofS08Th0-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="kJoU7hoKPyCbofS08Th0-6" target="kJoU7hoKPyCbofS08Th0-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="620" as="sourcePoint" />
-            <mxPoint x="420" y="590" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="390" y="480" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kJoU7hoKPyCbofS08Th0-17" value="Load Balancer&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="360" width="50" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="kJoU7hoKPyCbofS08Th0-18" value="Backend Service&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="480" y="530" width="110" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="kJoU7hoKPyCbofS08Th0-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.021;entryY=0.407;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kJoU7hoKPyCbofS08Th0-8" target="kJoU7hoKPyCbofS08Th0-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="620" as="sourcePoint" />
-            <mxPoint x="690" y="570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kJoU7hoKPyCbofS08Th0-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="440" as="sourcePoint" />
-            <mxPoint x="750" y="370" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="730" y="360" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kJoU7hoKPyCbofS08Th0-23" value="Retry - 5 or 10&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="610" y="378" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="kJoU7hoKPyCbofS08Th0-25" value="CDN&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kJoU7hoKPyCbofS08Th0-29" value="Cache&amp;nbsp;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="610" y="460" width="50" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="kJoU7hoKPyCbofS08Th0-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.471;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kJoU7hoKPyCbofS08Th0-17" target="kJoU7hoKPyCbofS08Th0-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="510" as="sourcePoint" />
-            <mxPoint x="490" y="460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
